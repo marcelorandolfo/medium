@@ -7,7 +7,7 @@ Neste repositório estão os *notebooks* dos códigos dos meus artigos no [Mediu
 
 ## Artigos:
 
-* Artigo: [Como avaliar seu modelo de classificação](https://github.com/marcelorandolfo/medium/blob/master/avaliacao_modelo.ipynb)
+* Artigo: [Como avaliar seu modelo de classificação](https://github.com/marcelorandolfo/medium/blob/master/avaliacao_modelo.ipynb).
 
 
 ## Sobre mim:
