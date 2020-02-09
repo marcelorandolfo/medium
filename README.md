@@ -7,8 +7,8 @@ Neste repositório estão os *notebooks* dos códigos dos meus artigos no [Mediu
 
 ## Artigos:
 
-* Artigo: [Como avaliar seu modelo de classificação](https://github.com/marcelorandolfo/medium/blob/master/avaliacao_modelo.ipynb).
-* Artigo: [Extraindo e analisando informações textuais de vídeos do YouTube](https://github.com/marcelorandolfo/medium/blob/master/extracao_legendas.ipynb)
+* [Como avaliar seu modelo de classificação](https://github.com/marcelorandolfo/medium/blob/master/avaliacao_modelo.ipynb).
+* [Extraindo e analisando informações textuais de vídeos do YouTube](https://github.com/marcelorandolfo/medium/blob/master/extracao_legendas.ipynb).
 
 
 ## Sobre mim:
