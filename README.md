@@ -13,6 +13,8 @@ Neste repositório estão os *notebooks* dos códigos dos meus artigos no [Mediu
   * [Link do artigo](https://medium.com/@marcelorandolfo/extraindo-e-analisando-dados-textuais-de-v%C3%ADdeos-do-youtube-d4a75a17a52e).
 * [Método de Ensemble: vantagens da combinação de diferentes estimadores](https://github.com/marcelorandolfo/medium/blob/master/ensemble.ipynb).
   * [Link do artigo](https://sigmoidal.ai/metodo-de-ensemble-vantagens-da-combinacao-de-diferentes-estimadores/).
+* [O que realmente um teste de hipóteses quer nos dizer?](https://github.com/marcelorandolfo/medium/blob/master/teste_de_hipoteses.ipynb).
+  * [Link do artigo](https://medium.com/data-hackers/o-que-realmente-um-teste-de-hip%C3%B3teses-quer-nos-dizer-b82801b03529).
 
 
 ## Sobre mim:
